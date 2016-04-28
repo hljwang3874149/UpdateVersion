@@ -1,5 +1,5 @@
 {
 	"versionCode": 330,
-	"path":"https://www.pgyer.com/Alvl"
-
+	"path":"https://www.pgyer.com/Alvl",
+  "msg": "新增锁上报位置， 修改骑行轨迹为nativie，优化其他功能。"
 }
