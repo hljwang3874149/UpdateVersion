@@ -1,5 +1,5 @@
 {
-	"versionCode": 331,
+	"versionCode": 333,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "优化查找自行车功能，添加没有轨迹提示语"
+  "msg": "修改弱网情况异常，修改gps点信息查寻为最后上报时间前小时"
 }
