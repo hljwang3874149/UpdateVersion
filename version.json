@@ -1,5 +1,5 @@
 {
-	"versionCode": 333,
+	"versionCode": 334,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "修改弱网情况异常，修改gps点信息查寻为最后上报时间前小时"
+  "msg": "新增弱光下 自动开起闪关灯，可以在扫码页右上方点击进入修改"
 }
