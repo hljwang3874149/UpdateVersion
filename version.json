@@ -1,5 +1,5 @@
 {
-	"versionCode": 334,
+	"versionCode": 335,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "新增弱光下 自动开起闪关灯，可以在扫码页右上方点击进入修改"
+  "msg": "gps点查询 新增按天查询功能"
 }
