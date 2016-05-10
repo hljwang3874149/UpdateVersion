@@ -1,5 +1,5 @@
 {
-	"versionCode": 335,
+	"versionCode": 336,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "gps点查询 新增按天查询功能"
+  "msg": "gps点查询 新增按时间段查询功能"
 }
