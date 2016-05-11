@@ -1,5 +1,5 @@
 {
-	"versionCode": 336,
+	"versionCode": 337,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "gps点查询 新增按时间段查询功能"
+  "msg": "修复故障数据重复问题"
 }
