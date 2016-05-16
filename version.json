@@ -1,5 +1,5 @@
 {
-	"versionCode": 337,
+	"versionCode": 340,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "修复故障数据重复问题"
+  "msg": "1.此版本开始，需要使用openVpn，才能使用\\n2.区分自行车与手机上报终点位置\\n添加查看web轨迹按钮\\n3.解决bugs：故障列表显示问题，骑行订单区分。"
 }
