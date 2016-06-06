@@ -1,5 +1,5 @@
 {
-	"versionCode": 341,
+	"versionCode": 342,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "1.修改功能若干^  2.维修增加按日期查询 ^ 3. 去掉身份选择按钮"
+  "msg": "1.显示骑行历史用户手机号码 ^ 2.修改ui 效果"
 }
