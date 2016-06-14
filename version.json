@@ -1,5 +1,5 @@
 {
-	"versionCode": 342,
+	"versionCode": 343,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "1.显示骑行历史用户手机号码 ^ 2.修改ui 效果"
+  "msg": "1.查找自行车 新增驾车导航 定位间隔减少为1s ^ 2.修改ui，主题颜色效果 ^ 3.在扫描自行车页面添加 找车入口"
 }
