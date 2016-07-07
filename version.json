@@ -1,5 +1,5 @@
 {
-	"versionCode": 346,
+	"versionCode": 347,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "1.修改gps获取时间最后上报时间天内前4小时。^2.新增自行车用户上报故障（自行车信息页右上角）^3.增加对android 6.0 支持。"
+  "msg": "1.修复bugs"
 }
