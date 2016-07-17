@@ -1,5 +1,5 @@
 {
-	"versionCode": 348,
+	"versionCode": 349,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "1.增加非运营子状态"
+  "msg": "1.区分上报时间与 电压上报时间"
 }
