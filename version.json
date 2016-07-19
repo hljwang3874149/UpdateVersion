@@ -1,5 +1,5 @@
 {
-	"versionCode": 349,
+	"versionCode": 350,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "1.区分上报时间与 电压上报时间"
+  "msg": "1.修复下在显示用户上报信息 时控件挤压显示不全的问题.^2.正确显示用户上报故障信息"
 }
