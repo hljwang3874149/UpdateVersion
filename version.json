@@ -1,5 +1,5 @@
 {
-	"versionCode": 351,
+	"versionCode": 352,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "1.修改手动输入自行车编号提示方式 ^2.去除对开锁失败记录的过滤"
+  "msg": "1.根据定位提示自行车编号 ^2.更新地图SDK"
 }
