@@ -3,6 +3,6 @@
 	"path":"https://www.pgyer.com/Alvl",
   "msg": "1.根据定位提示自行车编号 ^2.更新地图SDK",
   "factoryDownloadPath": "https://github.com/hljwang3874149/UpdateVersion/raw/master/Mola_proxy_factory.apk",
-  "factoryCode": 346,
-  "factoryMsg": "测试"
+  "factoryCode": 345,
+  "factoryMsg": "代工厂内容"
 }
