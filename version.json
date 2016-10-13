@@ -2,7 +2,7 @@
 	"versionCode": 352,
 	"path":"https://www.pgyer.com/Alvl",
   "msg": "1.根据定位提示自行车编号 ^2.更新地图SDK",
-  "factoryDownloadPath": "https://www.pgyer.com/Alvl",
-  "factoryCode": 346,
+  "factoryDownloadPath": "",
+  "factoryCode": 345,
   "factoryMsg": ""
 }
