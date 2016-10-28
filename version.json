@@ -1,7 +1,7 @@
 {
-	"versionCode": 352,
+	"versionCode": 380,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "1.根据定位提示自行车编号 ^2.更新地图SDK",
+  "msg": "1.新增注销自行车功能 ^2.新增工单地图 查看所负责区域内的故障车",
   "factoryDownloadPath": "https://github.com/hljwang3874149/UpdateVersion/raw/master/Mola_proxy_factory.apk",
   "factoryCode": 345,
   "factoryMsg": "代工厂内容"
