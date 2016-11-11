@@ -5,6 +5,7 @@
   "factoryDownloadPath": "https://github.com/hljwang3874149/UpdateVersion/raw/master/Mola_proxy_factory.apk",
   "factoryCode": 345,
   "factoryMsg": "代工厂内容",
-  "bsDiffVer":382,
-  "bsDiffPath":""
+  "bsDiffVer":0,
+  "bsDiffPath":"",
+  "MD5":""
 }
