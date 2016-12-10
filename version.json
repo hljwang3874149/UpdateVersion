@@ -1,7 +1,7 @@
 {
-	"versionCode": 384,
+	"versionCode": 385,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "^1.工单地图添加时间选择栏 ^2.工单地图添加大头针指向 ",
+  "msg": "^1.显示蓝牙版本 ",
   "factoryDownloadPath": "https://github.com/hljwang3874149/UpdateVersion/raw/master/Mola_proxy_factory.apk",
   "factoryCode": 345,
   "factoryMsg": "代工厂内容",
