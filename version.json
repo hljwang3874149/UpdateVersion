@@ -2,9 +2,9 @@
 	"versionCode": 386,
 	"path":"https://www.pgyer.com/Alvl",
   "msg": "^1.解决出厂内容显示不全问题 ",
-  "factoryDownloadPath": "https://www.pgyer.com/apiv1/app/install?aId=2135e5998bc1e2f151c006836e0fee24&_api_key=6be9e99d946bd419fef49d6f70e9c1f0",
-  "factoryCode": 390,
-  "factoryMsg": "测试代工厂自动下载",
+  "factoryDownloadPath": "https://github.com/hljwang3874149/UpdateVersion/raw/master/Mola_proxy_factory.apk",
+  "factoryCode": 345,
+  "factoryMsg": "代工厂内容",
   "bsDiffVer":0,
   "bsDiffPath":"",
   "MD5":""
