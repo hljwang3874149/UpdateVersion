@@ -1,7 +1,7 @@
 {
-	"versionCode": 400,
+	"versionCode": 401,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "^1.完善车辆状态",
+  "msg": "^1.修复佛山 东莞工单地图显示问题",
   "factoryDownloadPath": "https://github.com/hljwang3874149/UpdateVersion/raw/master/Mola_proxy_factory.apk",
   "factoryCode": 345,
   "factoryMsg": "代工厂内容",
