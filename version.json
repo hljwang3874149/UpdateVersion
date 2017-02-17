@@ -1,7 +1,7 @@
 {
-	"versionCode": 403,
+	"versionCode": 404,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "^1.支持山东济南车辆工单地图功能",
+  "msg": "^1.支持非本城市citiycode编码自行车显示,^2支持国际化，国内切换到百度地图",
   "factoryDownloadPath": "https://github.com/hljwang3874149/UpdateVersion/raw/master/Mola_proxy_factory.apk",
   "factoryCode": 345,
   "factoryMsg": "代工厂内容",
