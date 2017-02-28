@@ -1,7 +1,7 @@
 {
-	"versionCode": 405,
+	"versionCode": 406,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "^1.解决工单地图不显示当前位置等问题 2^新版本mola 更新后需要使用新的vpn ，没有新vpn证书请找运营经理。",
+  "msg": "^1.修复工单地图marker显示问题 2^修复查找自行车首次错误问题",
   "factoryDownloadPath": "https://github.com/hljwang3874149/UpdateVersion/raw/master/Mola_proxy_factory.apk",
   "factoryCode": 345,
   "factoryMsg": "代工厂内容",
