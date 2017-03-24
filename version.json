@@ -1,7 +1,7 @@
 {
-	"versionCode": 407,
+	"versionCode": 408,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "^1.新增 出厂车型校验",
+  "msg": "^1.修复bug",
   "factoryDownloadPath": "https://github.com/hljwang3874149/UpdateVersion/raw/master/Mola_proxy_factory.apk",
   "factoryCode": 345,
   "factoryMsg": "代工厂内容",
