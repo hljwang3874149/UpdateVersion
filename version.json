@@ -1,7 +1,7 @@
 {
-	"versionCode": 408,
+	"versionCode": 409,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "^1.修复部分机型百度地图无法定位bug^2.修复自行车生命周期显示异常",
+  "msg": "^1.添加骑行web页^2.自行车信息界面显示锁电池状态^3.修复bug",
   "factoryDownloadPath": "https://github.com/hljwang3874149/UpdateVersion/raw/master/Mola_proxy_factory.apk",
   "factoryCode": 345,
   "factoryMsg": "代工厂内容",
