@@ -1,7 +1,7 @@
 {
-	"versionCode": 410,
+	"versionCode": 411,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "^1.在创建订单中添加发货城市，供应商，^2.在确认签收中添加收获城市^3.修复bug",
+  "msg": "^1.增加车型，^2.显示发往城市^3.添加权限系统",
   "factoryDownloadPath": "https://github.com/hljwang3874149/UpdateVersion/raw/master/Mola_proxy_factory.apk",
   "factoryCode": 393,
   "factoryMsg": "在创建订单中添加发货城市，供应商",
