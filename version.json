@@ -1,7 +1,7 @@
 {
-	"versionCode": 420,
+	"versionCode": 421,
 	"path":"https://www.pgyer.com/Alvl",
-  "msg": "^1.去掉VPN限制，添加密码校验 ^2.优化程序性能",
+  "msg": "^1.修复420扫码慢问题 ^2.修复420出厂问题",
   "factoryDownloadPath": "https://github.com/hljwang3874149/UpdateVersion/raw/master/Mola_proxy_factory.apk",
   "factoryCode": 393,
   "factoryMsg": "在创建订单中添加发货城市，供应商",
