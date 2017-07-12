@@ -1,12 +1,29 @@
-{
-	"versionCode": 411,
-	"path":"https://www.pgyer.com/Alvl",
-  "msg": "^1.增加车型，^2.显示发往城市^3.添加权限系统",
-  "factoryDownloadPath": "https://github.com/hljwang3874149/UpdateVersion/raw/master/Mola_proxy_factory.apk",
-  "factoryCode": 393,
-  "factoryMsg": "在创建订单中添加发货城市，供应商",
-  "bsDiffVer":0,
-  "bsDiffPath":"",
-  "MD5":"",
-  "forceUpdate":false
-}
+# 蓝牙交互流程
+
+### Profile定义
+Name UART_BLE TRANSFER
+
+Primary service UUID A000-FAA0-0047-005A-0052-6D6F62696B65
+
+Character Name Character UUID Character properties
+
+RX_CHAR A000-FEE0-0047-005A-0052-6D6F62696B65 WRITE_RSP
+
+TX_CHAR A000-FEE1-0047-005A-0052-6D6F62696B65 NOTIFY
+
+
+scanDevice
+
+connect macAddr
+
+register TX_CHAR NOTIFY
+
+receive data
+
+get data
+
+write RX_CHAR first
+
+write RX_CHAR rest
+
+
