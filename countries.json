@@ -31,6 +31,12 @@
       "iso": "US"
     },
     {
+      "id": 12,
+      "name": "Italy",
+      "mobileCode": "+39",
+      "iso": "IT"
+    },
+    {
       "id": 4,
       "name": "Malaysia",
       "mobileCode": "+60",
