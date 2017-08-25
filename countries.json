@@ -67,6 +67,12 @@
       "name": "Denmark",
       "mobileCode": "+45",
       "iso": "DK"
+    },
+    {
+      "id": 10,
+      "name": "Korea",
+      "mobileCode": "+82",
+      "iso": "KR"
     }
   ]
 }
